@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * C program that prints exactly "Programming is like building a multilingual
- * puzzle, followed by a new line.
+ * main - prints exactly with proper grammar, but the outcome 
+ * is a piece of art,, followed by a new line.
+ * Return: 0 if exited properly
  */
 int main(void)
 {
