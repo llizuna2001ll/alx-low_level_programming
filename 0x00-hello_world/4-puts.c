@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints exactly with proper grammar, but the outcome 
- * is a piece of art,, followed by a new line.
+ * main - prints the size of various types 
  * Return: 0 if exited properly
  */
 int main(void)
